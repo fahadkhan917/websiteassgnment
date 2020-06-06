@@ -1,0 +1,16 @@
+.fa {
+    padding: 2px;
+    font-size: 40px;
+    width: 50px;
+    
+    text-decoration: none;
+    margin: 2px 2px;
+    
+  }
+  
+
+  a:hover{
+
+background-color: rgb(238, 237, 237);
+
+  }
